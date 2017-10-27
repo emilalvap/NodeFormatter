@@ -1,0 +1,116 @@
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EBUSY: resource busy or locked, open 'C:\windows\system32\log.txt']
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\windows\\system32\\log.txt' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }

@@ -1,0 +1,238 @@
+{
+  "EWS": {
+    "@xmlns:asx": "http://www.sap.com/abapxml",
+    "labels": {
+      "item": [
+        {
+          "@id": "YGLUI_MES_COMP-001",
+          "@value": "The org unit cannot be submitted, because there are subordinate org units that have not been approved.",
+          "#text": null
+        },
+        {
+          "@id": "approve_message",
+          "@value": "Review &amp;1 has been approved by &amp;2.",
+          "#text": null
+        },
+        {
+          "@id": "closing",
+          "@value": "Best regards,",
+          "#text": null
+        },
+        {
+          "@id": "create_message",
+          "@value": "Review &amp;1 is ready for your planning.",
+          "#text": null
+        },
+        {
+          "@id": "greeting",
+          "@value": null,
+          "#text": null
+        },
+        {
+          "@id": "note",
+          "@value": "Note",
+          "#text": null
+        },
+        {
+          "@id": "reject_message",
+          "@value": "Review &amp;1, which you had submitted for approval, has been rejected by &amp;2.",
+          "#text": null
+        },
+        {
+          "@id": "sender",
+          "@value": "&amp;1",
+          "#text": null
+        },
+        {
+          "@id": "subject",
+          "@value": "Compensation Process Notification in HR4U",
+          "#text": null
+        },
+        {
+          "@id": "submit_message",
+          "@value": "I would like to inform you that I have submitted &amp;2 for my organization in HR4U. Please review my input.",
+          "#text": null
+        },
+        {
+          "@id": "submit_message2a",
+          "@value": "This is a system notification to inform you that &amp;1 has submitted &amp;2 for his/her organization in HR4U.",
+          "#text": null
+        },
+        {
+          "@id": "submit_message2b",
+          "@value": "Action: Please go to the Compensation module in HR4U, review the input and approve from the \"Review\" tab.",
+          "#text": null
+        },
+        {
+          "@id": "submit_message2c",
+          "@value": "For more information, please visit the HR&amp;O intranet page.  In case you have any questions, please contact your HR manager.",
+          "#text": null
+        }
+      ]
+    },
+    "messages": {
+      "item": [
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        },
+        {
+          "@arbgb": "YGLUI_MES_COMP",
+          "@msgty": "E",
+          "@msgv1": null,
+          "@msgv2": null,
+          "@msgv3": null,
+          "@msgv4": null,
+          "@txtnr": "001",
+          "@zeile": null,
+          "#text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+        }
+      ]
+    },
+    "webmessage_type": "E",
+    "webmessage_text": "The org unit cannot be submitted, because there are subordinate org units that have not been approved."
+  }
+}
+
+
+
+<EWS><SERVICE>COM_UPD_STATUS</SERVICE><OBJ TYPE="O">25068592</OBJ><PARAM><CREVI>NLR4</CREVI><ACTION>SUB</ACTION><COMMENT>Error! should not update </COMMENT></PARAM><DEL></DEL><GCC>ASM</GCC><LCC>ANL</LCC></EWS>

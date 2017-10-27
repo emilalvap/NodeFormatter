@@ -1,0 +1,27 @@
+{
+  "EWS": {
+    "@xmlns:asx": "http://www.sap.com/abapxml",
+    "labels": {
+      "item": {
+        "@id": "SAVED_OK",
+        "@value": "Status: Changes saved",
+        "#text": null
+      }
+    },
+    "messages": {
+      "item": {
+        "@arbgb": "HRECM00MASTERDATA",
+        "@msgty": "I",
+        "@msgv1": "Status: Changes saved",
+        "@msgv2": null,
+        "@msgv3": null,
+        "@msgv4": null,
+        "@txtnr": "899",
+        "@zeile": null,
+        "#text": "Status: Changes saved"
+      }
+    },
+    "webmessage_type": "I",
+    "webmessage_text": "Status: Changes saved"
+  }
+}

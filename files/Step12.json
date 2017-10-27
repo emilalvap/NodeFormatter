@@ -1,0 +1,1795 @@
+{
+  "EWS": {
+    "@xmlns:asx": "http://www.sap.com/abapxml",
+    "o_act_payroll": null,
+    "o_begda_comtraf": "0000-00-00",
+    "o_data_work_extra": {
+      "@begda": "0000-00-00",
+      "@begpc": null,
+      "@endda": "0000-00-00",
+      "@load": null,
+      "@pai": null,
+      "#text": null
+    },
+    "o_date_ranges": {
+      "yglui_str_dates": {
+        "@dates": null,
+        "@screen": "19",
+        "#text": null
+      }
+    },
+    "o_extra_scr": {
+      "@all_modifiable": null,
+      "@appid": null,
+      "@dyn_panel": null,
+      "@label_tag": null,
+      "@list_mode": null,
+      "@listm_rdonly": null,
+      "@onsave_checkmode": null,
+      "@onsave_clearmode": null,
+      "@onsave_nodefault": null,
+      "@screen": null,
+      "@secondary": null,
+      "@selected": null,
+      "@table_mode": null,
+      "@translation": null,
+      "#text": null
+    },
+    "o_extra_screen": {
+      "@appid": null,
+      "@collapsed": null,
+      "@color": "0",
+      "@hide": null,
+      "@parentid": null,
+      "@type": null,
+      "@widcolumn": null,
+      "@widget_help": null,
+      "@widrow": null,
+      "#text": null
+    },
+    "o_extra_settings": {
+      "@default_variant": null,
+      "@fs_fields": null,
+      "@screen": null,
+      "@tcontent_empty": null,
+      "@tdefault_variant": null,
+      "@tvariant_fieldid": null,
+      "@tvariant_type": null,
+      "@variant_fieldid": null,
+      "@variant_type": null,
+      "hrobject": {
+        "@objid": null,
+        "@otype": null,
+        "@plvar": null,
+        "#text": null
+      },
+      "tcontent_pai": {
+        "@tcontent_edit": null,
+        "@tcontent_max": "000",
+        "@tcontent_min": "000",
+        "@tcontent_pai": null,
+        "#text": null
+      }
+    },
+    "o_extra_values": {
+      "@contents": null,
+      "@rec_key": null,
+      "@screen": null,
+      "hrobject": {
+        "@objid": null,
+        "@otype": null,
+        "@plvar": null,
+        "#text": null
+      }
+    },
+    "o_family_button": null,
+    "o_field_settings": {
+      "yglui_str_wid_fs_record": {
+        "@default_variant": null,
+        "@screen": "19",
+        "@tdefault_variant": null,
+        "@tvariant_fieldid": null,
+        "@tvariant_type": null,
+        "@variant_fieldid": null,
+        "@variant_type": null,
+        "hrobject": {
+          "@objid": "00026981",
+          "@otype": "P",
+          "@plvar": "01",
+          "#text": null
+        },
+        "fs_fields": {
+          "yglui_str_wid_fs_field": [
+            {
+              
+            }
+          ]
+        },
+        "tcontent_empty": {
+          "yglui_str_wid_field": [
+            {
+             
+            }
+          ]
+        },
+        "tcontent_pai": {
+          "@tcontent_edit": "X",
+          "@tcontent_max": "999",
+          "@tcontent_min": "000",
+          "@tcontent_pai": "COSD_PAI",
+          "#text": null
+        }
+      }
+    },
+    "o_field_values": {
+      "yglui_str_wid_record": [
+        {
+          "contents": {
+            "yglui_str_wid_content": {
+              "@rec_variant": null,
+              "@seqnr": "000001",
+              "fields": {
+                "yglui_str_wid_field": [
+                  {
+                    "@fieldid": "KOSTL",
+                    "@fieldlabel": null,
+                    "@fieldtechname": "KOSTL",
+                    "@fieldtseqnr": 1,
+                    "@value": "1000013559",
+                    "#text": "020000000 - Cost center"
+                  },
+                  {
+                    "@fieldid": "LINK_ADD_CC",
+                    "@fieldlabel": null,
+                    "@fieldtechname": null,
+                    "@fieldtseqnr": 1,
+                    "@value": null,
+                    "#text": null
+                  },
+                  {
+                    "@fieldid": "PKPRZ",
+                    "@fieldlabel": "Percentage",
+                    "@fieldtechname": "PROZT",
+                    "@fieldtseqnr": 1,
+                    "@value": "100.00",
+                    "#text": null
+                  },
+                  {
+                    "@fieldid": "TMODIF",
+                    "@fieldlabel": null,
+                    "@fieldtechname": "TMODIF",
+                    "@fieldtseqnr": 1,
+                    "@value": null,
+                    "#text": null
+                  },
+                  {
+                    "@fieldid": "ZZMASTERCC_FL",
+                    "@fieldlabel": null,
+                    "@fieldtechname": "ZZMASTERCC_FL",
+                    "@fieldtseqnr": 1,
+                    "@value": "X",
+                    "#text": null
+                  }
+                ]
+              },
+              "@key_str": "000001",
+              "@rec_index": "000001",
+              "@screen": "19",
+              "tcontents": {
+                "yglui_str_wid_tcontent": []
+              }
+            }
+          },
+          "@screen": "19"
+        }
+      ]
+    },
+    "o_grp_but": null,
+    "o_hire_name": "Juanjo Saameno",
+    "o_mh_pernr": "00000000",
+    "o_mh_reqid": null,
+    "o_okcodes": null,
+    "o_pai_fields": null,
+    "o_popup": null,
+    "o_screen_buttons": {
+      "yglui_str_wid_button": [
+        {
+          "@action": "APP_PCR_CANCEL",
+          "@busid": null,
+          "@disma": null,
+          "@label_tag": "Cancel",
+          "@nocommit": null,
+          "@okcode": "DEL",
+          "@ref_actio": "DEL",
+          "@screen": "*",
+          "@seqnr": "000",
+          "@showindisplay": null,
+          "@status": "9Z",
+          "@tarap": null,
+          "@tartb": null,
+          "@tarty": null,
+          "@type": "DEL",
+          "@views": null,
+          "@yyprim": null,
+          "#text": null
+        },
+        {
+          "@action": "APP_PCR_NEXT",
+          "@busid": null,
+          "@disma": null,
+          "@label_tag": "Next",
+          "@nocommit": null,
+          "@okcode": "INS",
+          "@ref_actio": "ADD",
+          "@screen": "*",
+          "@seqnr": "000",
+          "@showindisplay": null,
+          "@status": "10",
+          "@tarap": null,
+          "@tartb": null,
+          "@tarty": null,
+          "@type": "INS",
+          "@views": null,
+          "@yyprim": null,
+          "#text": null
+        }
+      ]
+    },
+    "o_step_screens": {
+      "yglui_str_wid_attributes": {
+        "@appid": "19",
+        "@collapsed": null,
+        "@color": "0",
+        "@hide": null,
+        "@parentid": "ZHIRE_15",
+        "@type": "GROUP",
+        "@widcolumn": null,
+        "@widget_help": null,
+        "@widrow": "1",
+        "#text": null
+      }
+    },
+    "o_widget_screens": {
+      "yglui_str_wid_screen": {
+        "@all_modifiable": "X",
+        "@appid": "Z12_FUHI",
+        "@dyn_panel": null,
+        "@label_tag": "coDist",
+        "@list_mode": null,
+        "@listm_rdonly": null,
+        "@onsave_checkmode": "2",
+        "@onsave_clearmode": null,
+        "@onsave_nodefault": null,
+        "@screen": "19",
+        "@secondary": null,
+        "@selected": null,
+        "@table_mode": null,
+        "@translation": null,
+        "#text": null
+      }
+    },
+    "o_work_schedule": null,
+    "labels": {
+      "item": [
+        {
+          "@id": "0",
+          "@value": "Declaration created by the employer being the only debtor.",
+          "#text": null
+        },
+        {
+          "@id": "1",
+          "@value": "Declaration done by the employer being the principal debtor.",
+          "#text": null
+        },
+        {
+          "@id": "2",
+          "@value": "Declaration done by a replacing fund or third party being the only substituting debtor.",
+          "#text": null
+        },
+        {
+          "@id": "3",
+          "@value": "Declaration done by a fund or third party being the principal debtor.",
+          "#text": null
+        },
+        {
+          "@id": "4",
+          "@value": "Multiple debtors and the employer makes current declaration.",
+          "#text": null
+        },
+        {
+          "@id": "5",
+          "@value": "Multiple debtors and a fund / third party makes current declaration.",
+          "#text": null
+        },
+        {
+          "@id": "ANRED",
+          "@value": "Title",
+          "#text": null
+        },
+        {
+          "@id": "ASSIN",
+          "@value": "INSS applicant",
+          "#text": null
+        },
+        {
+          "@id": "Aansluitingen",
+          "@value": "Membership",
+          "#text": null
+        },
+        {
+          "@id": "BEGDA",
+          "@value": "Start Date",
+          "#text": null
+        },
+        {
+          "@id": "BEGDA_ORIG",
+          "@value": "Record start date",
+          "#text": null
+        },
+        {
+          "@id": "BEGGH",
+          "@value": "Entitled family member",
+          "#text": null
+        },
+        {
+          "@id": "BEGPC",
+          "@value": "Labour commission",
+          "#text": null
+        },
+        {
+          "@id": "BEIDD",
+          "@value": "Validity date ID",
+          "#text": null
+        },
+        {
+          "@id": "BEIDN",
+          "@value": "IDcard no.",
+          "#text": null
+        },
+        {
+          "@id": "BEREG",
+          "@value": "SI-rhythm",
+          "#text": null
+        },
+        {
+          "@id": "BERGM",
+          "@value": "SI-regime",
+          "#text": null
+        },
+        {
+          "@id": "BETRG",
+          "@value": "Amount",
+          "#text": null
+        },
+        {
+          "@id": "BEUW2",
+          "@value": "Contractual number hrs/week",
+          "#text": null
+        },
+        {
+          "@id": "BEWVD",
+          "@value": "Valid until",
+          "#text": null
+        },
+        {
+          "@id": "BEWVN",
+          "@value": "Labour perm.",
+          "#text": null
+        },
+        {
+          "@id": "BSGRD",
+          "@value": "Employment Percentage",
+          "#text": null
+        },
+        {
+          "@id": "BUKRS",
+          "@value": "Personnel Area",
+          "#text": null
+        },
+        {
+          "@id": "BVAMT",
+          "@value": "Disabled &lt;65",
+          "#text": null
+        },
+        {
+          "@id": "BVATL",
+          "@value": "No. Other Deps &lt;65",
+          "#text": null
+        },
+        {
+          "@id": "BVBOR",
+          "@value": "Border Worker",
+          "#text": null
+        },
+        {
+          "@id": "BVCOA",
+          "@value": "Legal cohabitation",
+          "#text": null
+        },
+        {
+          "@id": "BVECH",
+          "@value": "Partner's Profession",
+          "#text": null
+        },
+        {
+          "@id": "BVEKI",
+          "@value": "Partner's Income",
+          "#text": null
+        },
+        {
+          "@id": "BVEMV",
+          "@value": "Partner disabled",
+          "#text": null
+        },
+        {
+          "@id": "BVEPC",
+          "@value": "Disability percentage",
+          "#text": null
+        },
+        {
+          "@id": "BVFAM",
+          "@value": "Marital Status",
+          "#text": null
+        },
+        {
+          "@id": "BVGAR",
+          "@value": "Garnishment-relevant",
+          "#text": null
+        },
+        {
+          "@id": "BVKKA",
+          "@value": "Children Ch.allow",
+          "#text": null
+        },
+        {
+          "@id": "BVKTL",
+          "@value": "No.children-costs",
+          "#text": null
+        },
+        {
+          "@id": "BVMKT",
+          "@value": "No. disabl. children",
+          "#text": null
+        },
+        {
+          "@id": "BVWMV",
+          "@value": "EE disabled",
+          "#text": null
+        },
+        {
+          "@id": "BVXKK",
+          "@value": "Child allowance",
+          "#text": null
+        },
+        {
+          "@id": "BVXMV",
+          "@value": "Disability",
+          "#text": null
+        },
+        {
+          "@id": "BVXTL",
+          "@value": "Tax-relevant",
+          "#text": null
+        },
+        {
+          "@id": "CANNOT_DELIMIT",
+          "@value": "Record is not valid as of the date before action date. Delimit is not possible.",
+          "#text": null
+        },
+        {
+          "@id": "COMM_CELL",
+          "@value": "Cell Phone",
+          "#text": null
+        },
+        {
+          "@id": "COMM_EMAIL",
+          "@value": "E-mail",
+          "#text": null
+        },
+        {
+          "@id": "COMM_EMPNO",
+          "@value": "Employee Number",
+          "#text": null
+        },
+        {
+          "@id": "COMM_EXTPHONE",
+          "@value": "Extention Phone Number",
+          "#text": null
+        },
+        {
+          "@id": "COMM_FAX",
+          "@value": "Fax",
+          "#text": null
+        },
+        {
+          "@id": "COMM_LEGACYID",
+          "@value": "Emergency e-mail",
+          "#text": null
+        },
+        {
+          "@id": "COMM_PHONE",
+          "@value": "First Telephone Number At Work",
+          "#text": null
+        },
+        {
+          "@id": "COMM_PUNCHNO",
+          "@value": "Punching Number",
+          "#text": null
+        },
+        {
+          "@id": "COMM_PUNCHNOPR",
+          "@value": "Punching Number Prefix",
+          "#text": null
+        },
+        {
+          "@id": "COMM_SPECNUM",
+          "@value": "Special Number",
+          "#text": null
+        },
+        {
+          "@id": "COMM_USRACC",
+          "@value": "User Account",
+          "#text": null
+        },
+        {
+          "@id": "CTEDT",
+          "@value": "Contract end date",
+          "#text": null
+        },
+        {
+          "@id": "DARDT",
+          "@value": "Doc child/charge off",
+          "#text": null
+        },
+        {
+          "@id": "DAT01",
+          "@value": "Group Seniority",
+          "#text": null
+        },
+        {
+          "@id": "DAT02",
+          "@value": "Company Seniority",
+          "#text": null
+        },
+        {
+          "@id": "DAT03",
+          "@value": "Sector Seniority",
+          "#text": null
+        },
+        {
+          "@id": "DAT04",
+          "@value": "Act w/o interr since",
+          "#text": null
+        },
+        {
+          "@id": "DAT05",
+          "@value": "Unemployed since",
+          "#text": null
+        },
+        {
+          "@id": "DAT06",
+          "@value": "Seniority contract",
+          "#text": null
+        },
+        {
+          "@id": "DAT07",
+          "@value": "Seniority notice",
+          "#text": null
+        },
+        {
+          "@id": "DATOL",
+          "@value": "Deceased date",
+          "#text": null
+        },
+        {
+          "@id": "DAY1",
+          "@value": "Mo",
+          "#text": null
+        },
+        {
+          "@id": "DAY2",
+          "@value": "Tu",
+          "#text": null
+        },
+        {
+          "@id": "DAY3",
+          "@value": "We",
+          "#text": null
+        },
+        {
+          "@id": "DAY4",
+          "@value": "Th",
+          "#text": null
+        },
+        {
+          "@id": "DAY5",
+          "@value": "Fr",
+          "#text": null
+        },
+        {
+          "@id": "DAY6",
+          "@value": "Sa",
+          "#text": null
+        },
+        {
+          "@id": "DAY7",
+          "@value": "Su",
+          "#text": null
+        },
+        {
+          "@id": "DIC3C",
+          "@value": "C3.2A card curre. month",
+          "#text": null
+        },
+        {
+          "@id": "DIC3F",
+          "@value": "C3.2A card follow. month",
+          "#text": null
+        },
+        {
+          "@id": "DISIS",
+          "@value": "SIS card nr",
+          "#text": null
+        },
+        {
+          "@id": "EINDT",
+          "@value": "Entry Date",
+          "#text": null
+        },
+        {
+          "@id": "ENDDA",
+          "@value": "End Date",
+          "#text": null
+        },
+        {
+          "@id": "ENDDA_DELE",
+          "@value": "Record end date",
+          "#text": null
+        },
+        {
+          "@id": "GRP_1",
+          "@value": "Accidents at work insurance",
+          "#text": null
+        },
+        {
+          "@id": "GRP_14",
+          "@value": "Company grouping",
+          "#text": null
+        },
+        {
+          "@id": "GRP_2",
+          "@value": "Child allowance fund",
+          "#text": null
+        },
+        {
+          "@id": "GRP_3",
+          "@value": "Holiday funds",
+          "#text": null
+        },
+        {
+          "@id": "GRP_34",
+          "@value": "Company for luncheon vouchers",
+          "#text": null
+        },
+        {
+          "@id": "GRP_4",
+          "@value": "Group insurance",
+          "#text": null
+        },
+        {
+          "@id": "GRP_41",
+          "@value": "Social security funds",
+          "#text": null
+        },
+        {
+          "@id": "GRP_58",
+          "@value": "Ministry of social affairs",
+          "#text": null
+        },
+        {
+          "@id": "GRP_59",
+          "@value": "Civil liability",
+          "#text": null
+        },
+        {
+          "@id": "GRP_62",
+          "@value": "Federation of nursing homes",
+          "#text": null
+        },
+        {
+          "@id": "GRP_7",
+          "@value": "Company medical services",
+          "#text": null
+        },
+        {
+          "@id": "KOSTL",
+          "@value": "Cost Center",
+          "#text": null
+        },
+        {
+          "@id": "Koppelingen",
+          "@value": "Links",
+          "#text": null
+        },
+        {
+          "@id": "LGART",
+          "@value": "Wage Type",
+          "#text": null
+        },
+        {
+          "@id": "M1STD",
+          "@value": "Weekly hours in case of suspension",
+          "#text": null
+        },
+        {
+          "@id": "M2STD",
+          "@value": "Mean working hours per week",
+          "#text": null
+        },
+        {
+          "@id": "MASG2",
+          "@value": "Reason for Action",
+          "#text": null
+        },
+        {
+          "@id": "MASSG",
+          "@value": "Reason for Action",
+          "#text": null
+        },
+        {
+          "@id": "MASSN",
+          "@value": "Action Type",
+          "#text": null
+        },
+        {
+          "@id": "N65SD",
+          "@value": "Disabled &gt;= 65",
+          "#text": null
+        },
+        {
+          "@id": "NR65S",
+          "@value": "Nr. pers. &gt;= 65",
+          "#text": null
+        },
+        {
+          "@id": "NUM01",
+          "@value": "Telefax",
+          "#text": null
+        },
+        {
+          "@id": "NUM02",
+          "@value": "Mobile phone",
+          "#text": null
+        },
+        {
+          "@id": "OBJPS",
+          "@value": "Number",
+          "#text": null
+        },
+        {
+          "@id": "OREDD",
+          "@value": "Beg. reduction repl.",
+          "#text": null
+        },
+        {
+          "@id": "OSSIN",
+          "@value": "INSS of replaced worker",
+          "#text": null
+        },
+        {
+          "@id": "POSTA",
+          "@value": "Apartment ID",
+          "#text": null
+        },
+        {
+          "@id": "PRBEH",
+          "@value": "Time/Measurement unit",
+          "#text": null
+        },
+        {
+          "@id": "PRBZT",
+          "@value": "Duration Probat. Period",
+          "#text": null
+        },
+        {
+          "@id": "PWSSTART",
+          "@value": "Start point in PWS",
+          "#text": null
+        },
+        {
+          "@id": "REC_NOT_PER_LINK",
+          "@value": "Recalculate notice period",
+          "#text": null
+        },
+        {
+          "@id": "REC_PER_LINK",
+          "@value": "recalculate probationary period",
+          "#text": null
+        },
+        {
+          "@id": "REC_WSR_MOD",
+          "@value": "Add new workschedule",
+          "#text": null
+        },
+        {
+          "@id": "REC_WSR_VIEW",
+          "@value": "View work schedule rule",
+          "#text": null
+        },
+        {
+          "@id": "RSKAC",
+          "@value": "Activity With Risk",
+          "#text": null
+        },
+        {
+          "@id": "RSZBL",
+          "@value": "SI/Belcotax country",
+          "#text": null
+        },
+        {
+          "@id": "RSZFF",
+          "@value": "SI Position Code",
+          "#text": null
+        },
+        {
+          "@id": "RSZFS",
+          "@value": "Factory shutdown fund",
+          "#text": null
+        },
+        {
+          "@id": "RSZGL",
+          "@value": "Place/country of birth",
+          "#text": null
+        },
+        {
+          "@id": "RSZKN",
+          "@value": "SI employee category",
+          "#text": null
+        },
+        {
+          "@id": "RSZLA",
+          "@value": "Language documents",
+          "#text": null
+        },
+        {
+          "@id": "RSZNA",
+          "@value": "SI Nationality",
+          "#text": null
+        },
+        {
+          "@id": "RSZRR",
+          "@value": "INSS-Number",
+          "#text": null
+        },
+        {
+          "@id": "RUFNM",
+          "@value": "Nickname",
+          "#text": null
+        },
+        {
+          "@id": "SCHKZ",
+          "@value": "Work Schedule Rule",
+          "#text": null
+        },
+        {
+          "@id": "SPRSL",
+          "@value": "Communic. language",
+          "#text": null
+        },
+        {
+          "@id": "STRAS",
+          "@value": "Street",
+          "#text": null
+        },
+        {
+          "@id": "TELNR",
+          "@value": "Telephone Number",
+          "#text": null
+        },
+        {
+          "@id": "USERNAME",
+          "@value": "System User Name",
+          "#text": null
+        },
+        {
+          "@id": "USRID",
+          "@value": "Legacy ID Number",
+          "#text": null
+        },
+        {
+          "@id": "USRID_0010",
+          "@value": "Email",
+          "#text": null
+        },
+        {
+          "@id": "USRID_9_07",
+          "@value": "User Active",
+          "#text": null
+        },
+        {
+          "@id": "USRID_9_08",
+          "@value": "Preferred Username",
+          "#text": null
+        },
+        {
+          "@id": "USRID_LONG",
+          "@value": "Private E-Mail Address",
+          "#text": null
+        },
+        {
+          "@id": "WAGETEMPLATE",
+          "@value": "Add Basic Salary",
+          "#text": null
+        },
+        {
+          "@id": "WAGETYPE",
+          "@value": "Wage Type List",
+          "#text": null
+        },
+        {
+          "@id": "WEEK",
+          "@value": "Week",
+          "#text": null
+        },
+        {
+          "@id": "WOSTD",
+          "@value": "Hours per week",
+          "#text": null
+        },
+        {
+          "@id": "WTTKL",
+          "@value": "Competition Clause",
+          "#text": null
+        },
+        {
+          "@id": "ZBAP_REC",
+          "@value": "Basic Salary and Recurring",
+          "#text": null
+        },
+        {
+          "@id": "ZHIRE_15",
+          "@value": "Cost centers",
+          "#text": null
+        },
+        {
+          "@id": "ZTERF2",
+          "@value": "EE time mngment status",
+          "#text": null
+        },
+        {
+          "@id": "ZWECK",
+          "@value": "Purpose 1",
+          "#text": null
+        },
+        {
+          "@id": "ZZABRST",
+          "@value": "Daily working hours",
+          "#text": null
+        },
+        {
+          "@id": "ZZADD_INFO",
+          "@value": "Additional Info",
+          "#text": null
+        },
+        {
+          "@id": "ZZAFGRECHT_CODE",
+          "@value": "Derived right",
+          "#text": null
+        },
+        {
+          "@id": "ZZAMTYP",
+          "@value": "Amount Type",
+          "#text": null
+        },
+        {
+          "@id": "ZZAMT_WAGE",
+          "@value": "Amount in wages",
+          "#text": null
+        },
+        {
+          "@id": "ZZANDERSVALIDE_FL",
+          "@value": "Subsidized contract",
+          "#text": null
+        },
+        {
+          "@id": "ZZAPRIL",
+          "@value": "April",
+          "#text": null
+        },
+        {
+          "@id": "ZZARBST",
+          "@value": "Daily working hours",
+          "#text": null
+        },
+        {
+          "@id": "ZZAUGUST",
+          "@value": "August",
+          "#text": null
+        },
+        {
+          "@id": "ZZBEGIN_DAT",
+          "@value": "Valid from",
+          "#text": null
+        },
+        {
+          "@id": "ZZBEWVN",
+          "@value": "Labour permit no.",
+          "#text": null
+        },
+        {
+          "@id": "ZZBEZOL_WIJZE_CODE",
+          "@value": "Payment method",
+          "#text": null
+        },
+        {
+          "@id": "ZZCATEGORIE",
+          "@value": "Category",
+          "#text": null
+        },
+        {
+          "@id": "ZZCATEGORIE_CODE",
+          "@value": "NSSO category",
+          "#text": null
+        },
+        {
+          "@id": "ZZCBW_NR",
+          "@value": "CBW number",
+          "#text": null
+        },
+        {
+          "@id": "ZZCBW_TXT",
+          "@value": "CBW number description",
+          "#text": null
+        },
+        {
+          "@id": "ZZCOPY_TAAL_CODE",
+          "@value": "Copy doc. language",
+          "#text": null
+        },
+        {
+          "@id": "ZZDECEMBER",
+          "@value": "December",
+          "#text": null
+        },
+        {
+          "@id": "ZZDOC_KANAAL_CODE",
+          "@value": "Document channel",
+          "#text": null
+        },
+        {
+          "@id": "ZZDOC_NAAM",
+          "@value": "Name on Documents",
+          "#text": null
+        },
+        {
+          "@id": "ZZDOC_OFF",
+          "@value": "Certif. dep. child ok",
+          "#text": null
+        },
+        {
+          "@id": "ZZEDULEVEL",
+          "@value": "Educational level",
+          "#text": null
+        },
+        {
+          "@id": "ZZEFFPROEFPER_EIND",
+          "@value": "Effective Probationary Period End Date",
+          "#text": null
+        },
+        {
+          "@id": "ZZEIND_DAT",
+          "@value": "Valid until",
+          "#text": null
+        },
+        {
+          "@id": "ZZENTKM",
+          "@value": "Distance home-work",
+          "#text": null
+        },
+        {
+          "@id": "ZZEWAD_INTER",
+          "@value": "EWAD Interim",
+          "#text": null
+        },
+        {
+          "@id": "ZZEXTHRSWS",
+          "@value": "Extra hrs work schedule",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1ANTW7",
+          "@value": "Medical examination",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1NR2",
+          "@value": "Ref. number child allowance fund",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR",
+          "@value": "Accidents at work insurance",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR14",
+          "@value": "Company grouping",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR2",
+          "@value": "Child allowance fund",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR3",
+          "@value": "Holiday funds",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR34",
+          "@value": "Company for lunch Vouchers",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR4",
+          "@value": "Group insurance",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR41",
+          "@value": "Social security funds",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR42",
+          "@value": "Company for Ecocheques",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR58",
+          "@value": "Ministry of social affairs",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR59",
+          "@value": "Civil liability",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR62",
+          "@value": "Federation of nursing homes",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1OR7",
+          "@value": "Occupational health services",
+          "#text": null
+        },
+        {
+          "@id": "ZZFA1TP",
+          "@value": "Organism Type",
+          "#text": null
+        },
+        {
+          "@id": "ZZFAO_NR",
+          "@value": "Work Regulations ID",
+          "#text": null
+        },
+        {
+          "@id": "ZZFDCP",
+          "@value": "Securex reference",
+          "#text": null
+        },
+        {
+          "@id": "ZZFEBRUARY",
+          "@value": "February",
+          "#text": null
+        },
+        {
+          "@id": "ZZFIST_CODE",
+          "@value": "Fiscal status",
+          "#text": null
+        },
+        {
+          "@id": "ZZFLY_PERS",
+          "@value": "Flying personnel",
+          "#text": null
+        },
+        {
+          "@id": "ZZFPFID",
+          "@value": "Invoicing system",
+          "#text": null
+        },
+        {
+          "@id": "ZZFRSID",
+          "@value": "Calculation rules",
+          "#text": null
+        },
+        {
+          "@id": "ZZFRTID",
+          "@value": "Time registration",
+          "#text": null
+        },
+        {
+          "@id": "ZZFUNC_CODE",
+          "@value": "Function",
+          "#text": null
+        },
+        {
+          "@id": "ZZFUNC_JAAR_MONT",
+          "@value": "Function - month",
+          "#text": null
+        },
+        {
+          "@id": "ZZFUNC_JAAR_YEAR",
+          "@value": "Function - years",
+          "#text": null
+        },
+        {
+          "@id": "ZZFUNC_PERC",
+          "@value": "Percentage",
+          "#text": null
+        },
+        {
+          "@id": "ZZFVAID",
+          "@value": "Holiday certificate",
+          "#text": null
+        },
+        {
+          "@id": "ZZFVEID",
+          "@value": "Holidays/overtime",
+          "#text": null
+        },
+        {
+          "@id": "ZZGOEDKEUR_DAT",
+          "@value": "Date approval",
+          "#text": null
+        },
+        {
+          "@id": "ZZGRAAD_CODE",
+          "@value": "Degree",
+          "#text": null
+        },
+        {
+          "@id": "ZZGWAD_INTER",
+          "@value": "GWAD Interim",
+          "#text": null
+        },
+        {
+          "@id": "ZZINDEX",
+          "@value": "Index",
+          "#text": null
+        },
+        {
+          "@id": "ZZINWONEND_FL",
+          "@value": "Resident",
+          "#text": null
+        },
+        {
+          "@id": "ZZJANUARY",
+          "@value": "January",
+          "#text": null
+        },
+        {
+          "@id": "ZZJRSTD",
+          "@value": "Weekly hrs of suspension",
+          "#text": null
+        },
+        {
+          "@id": "ZZJULY",
+          "@value": "July",
+          "#text": null
+        },
+        {
+          "@id": "ZZJUNE",
+          "@value": "June",
+          "#text": null
+        },
+        {
+          "@id": "ZZKAART_TYPE",
+          "@value": "Document type",
+          "#text": null
+        },
+        {
+          "@id": "ZZKORTLOPEND_FL",
+          "@value": "Short contract",
+          "#text": null
+        },
+        {
+          "@id": "ZZLATE_REQUEST",
+          "@value": "Late request",
+          "#text": null
+        },
+        {
+          "@id": "ZZLEEROVEREEN_NR",
+          "@value": "Lnr. Agr. number",
+          "#text": null
+        },
+        {
+          "@id": "ZZLISTP",
+          "@value": "Price incl VAT and options",
+          "#text": null
+        },
+        {
+          "@id": "ZZLOONSBER_FL",
+          "@value": "Payroll by Securex",
+          "#text": null
+        },
+        {
+          "@id": "ZZMAIN_FUNC_FL",
+          "@value": "Main Function",
+          "#text": null
+        },
+        {
+          "@id": "ZZMARCH",
+          "@value": "March",
+          "#text": null
+        },
+        {
+          "@id": "ZZMASTERCC_FL",
+          "@value": "Main Cost Center",
+          "#text": null
+        },
+        {
+          "@id": "ZZMAY",
+          "@value": "May",
+          "#text": null
+        },
+        {
+          "@id": "ZZMOSTD",
+          "@value": "Weekly hours excluding suspension",
+          "#text": null
+        },
+        {
+          "@id": "ZZNANNY",
+          "@value": "Daycare (nanny)",
+          "#text": null
+        },
+        {
+          "@id": "ZZNOVEMBER",
+          "@value": "November",
+          "#text": null
+        },
+        {
+          "@id": "ZZOCTOBER",
+          "@value": "October",
+          "#text": null
+        },
+        {
+          "@id": "ZZPAYEEISEE",
+          "@value": "Payee = Employee",
+          "#text": null
+        },
+        {
+          "@id": "ZZPAYEE_COUNTRY",
+          "@value": "Payee Country",
+          "#text": null
+        },
+        {
+          "@id": "ZZPAYSCALE",
+          "@value": "Pay scale",
+          "#text": null
+        },
+        {
+          "@id": "ZZPAY_FUNC_FL",
+          "@value": "Function on payslip",
+          "#text": null
+        },
+        {
+          "@id": "ZZPROATT",
+          "@value": "Prorata Attendance",
+          "#text": null
+        },
+        {
+          "@id": "ZZPROEFPER_CODE",
+          "@value": "Probationary period",
+          "#text": null
+        },
+        {
+          "@id": "ZZPROF",
+          "@value": "Professional sportsman",
+          "#text": null
+        },
+        {
+          "@id": "ZZPYAREA",
+          "@value": "Payroll area",
+          "#text": null
+        },
+        {
+          "@id": "ZZRISK_FUNC",
+          "@value": "Risk Function ESPP",
+          "#text": null
+        },
+        {
+          "@id": "ZZRSR_NR",
+          "@value": "RSR number disabled person",
+          "#text": null
+        },
+        {
+          "@id": "ZZRSZFF",
+          "@value": "SI Position Code",
+          "#text": null
+        },
+        {
+          "@id": "ZZRSZFF_FL",
+          "@value": "SI position code",
+          "#text": null
+        },
+        {
+          "@id": "ZZSBK_BUITEN_FL",
+          "@value": "SC Foreigner",
+          "#text": null
+        },
+        {
+          "@id": "ZZSBK_ERG_LAA_FL",
+          "@value": "SC Very Low Educated",
+          "#text": null
+        },
+        {
+          "@id": "ZZSBK_LAAGGE_FL",
+          "@value": "SC Low Educated",
+          "#text": null
+        },
+        {
+          "@id": "ZZSBK_WERKOPL_FL",
+          "@value": "SC agr. work/education",
+          "#text": null
+        },
+        {
+          "@id": "ZZSBK_WERK_BEDR",
+          "@value": "SC work all. Amount",
+          "#text": null
+        },
+        {
+          "@id": "ZZSBK_WERK_BEG_D",
+          "@value": "SC work all. Start date",
+          "#text": null
+        },
+        {
+          "@id": "ZZSBK_WERK_END_D",
+          "@value": "SC work all. End date",
+          "#text": null
+        },
+        {
+          "@id": "ZZSEPTEMBER",
+          "@value": "September",
+          "#text": null
+        },
+        {
+          "@id": "ZZSHORT_NAME",
+          "@value": "Short Name",
+          "#text": null
+        },
+        {
+          "@id": "ZZSOST_CODE",
+          "@value": "Social regime",
+          "#text": null
+        },
+        {
+          "@id": "ZZSTATUS",
+          "@value": "Status",
+          "#text": null
+        },
+        {
+          "@id": "ZZSTATUTE",
+          "@value": "Statute",
+          "#text": null
+        },
+        {
+          "@id": "ZZSTRAATDOCNAAM",
+          "@value": "Street documents",
+          "#text": null
+        },
+        {
+          "@id": "ZZSUBCAT_CODE",
+          "@value": "NSSO Sub-category",
+          "#text": null
+        },
+        {
+          "@id": "ZZSXCNR",
+          "@value": "Contract number",
+          "#text": null
+        },
+        {
+          "@id": "ZZTAAL2_CODE",
+          "@value": "Mother tongue",
+          "#text": null
+        },
+        {
+          "@id": "ZZTIJDSBLOKAANT",
+          "@value": "Time ind. Dim. light",
+          "#text": null
+        },
+        {
+          "@id": "ZZTITLE",
+          "@value": "Title",
+          "#text": null
+        },
+        {
+          "@id": "ZZTMLEG_UNIT1",
+          "@value": "Time measurement unit",
+          "#text": null
+        },
+        {
+          "@id": "ZZTMLEG_UNIT2",
+          "@value": "Time measurement unit",
+          "#text": null
+        },
+        {
+          "@id": "ZZTMLEG_UNIT3",
+          "@value": "Time measurement unit",
+          "#text": null
+        },
+        {
+          "@id": "ZZWKWDY",
+          "@value": "Weekly working days",
+          "#text": null
+        },
+        {
+          "@id": "ZZWK_CODE",
+          "@value": "Work card code",
+          "#text": null
+        },
+        {
+          "@id": "ZZWOSTD",
+          "@value": "Weekly working hours",
+          "#text": null
+        },
+        {
+          "@id": "ZZZWECK2",
+          "@value": "Purpose 2",
+          "#text": null
+        },
+        {
+          "@id": "add",
+          "@value": "Add",
+          "#text": null
+        },
+        {
+          "@id": "add_wt",
+          "@value": "Add Wage Type",
+          "#text": null
+        },
+        {
+          "@id": "addrPerm",
+          "@value": "Address",
+          "#text": null
+        },
+        {
+          "@id": "allrec",
+          "@value": "All records saved successfully",
+          "#text": null
+        },
+        {
+          "@id": "bank Details",
+          "@value": "Main bank",
+          "#text": null
+        },
+        {
+          "@id": "begdaLbl",
+          "@value": "Start Date",
+          "#text": null
+        },
+        {
+          "@id": "calendar",
+          "@value": "Calendar",
+          "#text": null
+        },
+        {
+          "@id": "cancel",
+          "@value": "Cancel",
+          "#text": null
+        },
+        {
+          "@id": "change",
+          "@value": "Change",
+          "#text": null
+        },
+        {
+          "@id": "coDist",
+          "@value": "Cost Distribution",
+          "#text": null
+        },
+        {
+          "@id": "communication",
+          "@value": "Communication",
+          "#text": null
+        },
+        {
+          "@id": "contractDetails",
+          "@value": "Contract Details",
+          "#text": null
+        },
+        {
+          "@id": "del",
+          "@value": "Delete",
+          "#text": null
+        },
+        {
+          "@id": "delete",
+          "@value": "Delete",
+          "#text": null
+        },
+        {
+          "@id": "desc_awar1",
+          "@value": "Theoritical code 1",
+          "#text": null
+        },
+        {
+          "@id": "desc_awar2",
+          "@value": "Theoritical code 2",
+          "#text": null
+        },
+        {
+          "@id": "desc_kost1",
+          "@value": "Cost center 1",
+          "#text": null
+        },
+        {
+          "@id": "desc_kost2",
+          "@value": "Cost center 2",
+          "#text": null
+        },
+        {
+          "@id": "desc_soll1",
+          "@value": "No. Hours 1",
+          "#text": null
+        },
+        {
+          "@id": "desc_soll2",
+          "@value": "No. Hours 2",
+          "#text": null
+        },
+        {
+          "@id": "desc_susp1",
+          "@value": "Suspension code 1",
+          "#text": null
+        },
+        {
+          "@id": "desc_susp2",
+          "@value": "Suspension code 2",
+          "#text": null
+        },
+        {
+          "@id": "details",
+          "@value": "Personal Info",
+          "#text": null
+        },
+        {
+          "@id": "doc",
+          "@value": "Documents",
+          "#text": null
+        },
+        {
+          "@id": "empty_date",
+          "@value": "Please fill in the Validity Date",
+          "#text": null
+        },
+        {
+          "@id": "empty_wagetyp",
+          "@value": "Please fill in the Wage Type Template.",
+          "#text": null
+        },
+        {
+          "@id": "enddaLbl",
+          "@value": "End Date",
+          "#text": null
+        },
+        {
+          "@id": "err_exist",
+          "@value": "All Wage Types in the current template already exist",
+          "#text": null
+        },
+        {
+          "@id": "family",
+          "@value": "Family Members",
+          "#text": null
+        },
+        {
+          "@id": "functions",
+          "@value": "Functions",
+          "#text": null
+        },
+        {
+          "@id": "inddate",
+          "@value": "Invalid Date",
+          "#text": null
+        },
+        {
+          "@id": "kopAansuluit",
+          "@value": "Links &amp; Memberships",
+          "#text": null
+        },
+        {
+          "@id": "notex",
+          "@value": "Wage Type not exists",
+          "#text": null
+        },
+        {
+          "@id": "orgAss",
+          "@value": "Organisational Assignment",
+          "#text": null
+        },
+        {
+          "@id": "part_1",
+          "@value": "Part 1",
+          "#text": null
+        },
+        {
+          "@id": "part_2",
+          "@value": "Part 2",
+          "#text": null
+        },
+        {
+          "@id": "percent",
+          "@value": "Employment Percentage",
+          "#text": null
+        },
+        {
+          "@id": "precedLbl",
+          "@value": "precedes",
+          "#text": null
+        },
+        {
+          "@id": "record",
+          "@value": "Record",
+          "#text": null
+        },
+        {
+          "@id": "rule",
+          "@value": "Rule",
+          "#text": null
+        },
+        {
+          "@id": "save",
+          "@value": "Save",
+          "#text": null
+        },
+        {
+          "@id": "soc",
+          "@value": "Social and Fiscal data",
+          "#text": null
+        },
+        {
+          "@id": "taxData",
+          "@value": "Tax Data",
+          "#text": null
+        },
+        {
+          "@id": "urlSocProf",
+          "@value": "http://www.securex.be",
+          "#text": null
+        },
+        {
+          "@id": "usrmgmt",
+          "@value": "User Management",
+          "#text": null
+        },
+        {
+          "@id": "valid_date",
+          "@value": "Validity Date",
+          "#text": null
+        },
+        {
+          "@id": "wagetype",
+          "@value": "Wage Type Template",
+          "#text": null
+        },
+        {
+          "@id": "workSche",
+          "@value": "Work Schedule",
+          "#text": null
+        },
+        {
+          "@id": "wt_empty",
+          "@value": "Please select a Wage Type",
+          "#text": null
+        }
+      ]
+    },
+    "messages": null,
+    "webmessage_type": null,
+    "webmessage_text": null
+  }
+}

@@ -1,0 +1,80 @@
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9000
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at Object.<anonymous> (C:\xampp\htdocs\NodeFormatter\server.js:88:11)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9001
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at Object.<anonymous> (C:\xampp\htdocs\NodeFormatter\server.js:92:5)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9500
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at Object.<anonymous> (C:\xampp\htdocs\NodeFormatter\server.js:88:11)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9000
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at Object.<anonymous> (C:\xampp\htdocs\NodeFormatter\server.js:88:11)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9000
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at Object.<anonymous> (C:\xampp\htdocs\NodeFormatter\server.js:88:11)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+{ [Error: EISDIR: illegal operation on a directory, write] errno: -4068, code: 'EISDIR', syscall: 'write' }
+^C

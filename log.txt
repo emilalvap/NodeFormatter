@@ -1,0 +1,1131 @@
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:10000
+Log display received
+Log display received
+Kill Server received
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Log display received
+Log display received
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Log display received
+Log display received
+Log display received
+Log display received
+Formatter Server listening on: http://localhost:9500
+Log Server listening on: http://localhost:9501
+Killer Server listening on: http://localhost:10500
+2016-07-29 13:45:18: ### Request received:
+# lang = JSON
+# file = Step7
+# fileName = Step7.json
+# File saved
+### Request finished
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+2016-08-04 13:11:07: ### Request received:
+# lang = JSON
+# file = labels
+# fileName = labels.json
+# Error writing file:
+Error: ENOENT: no such file or directory, open 'C:\xampp\htdocs\NodeFormatter\log\files\labels.json'
+Kill Server received
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+2016-08-04 13:13:17: ### Request received:
+# lang = JSON
+# file = labels
+# Error writing file:
+Error: ENOENT: no such file or directory, open 'C:\xampp\htdocs\NodeFormatter\log\files\labels.json'
+Log display received
+Log display received
+Kill Server received
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+2016-08-04 13:14:24: ### Request received:
+# lang = JSON
+# file = labels
+# File saved
+### Request finished
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Kill Server received
+Kill Server received
+Formatter Server listening on: http://localhost:9500
+Log Server listening on: http://localhost:9501
+Killer Server listening on: http://localhost:10500
+2016-08-05 10:12:58: ### Request received:
+# lang = JSON
+# file = Step12
+# File saved
+### Request finished
+2016-08-05 10:17:32: ### Request received:
+# lang = JSON
+# file = Step12
+# File saved
+### Request finished
+2016-08-05 10:17:45: ### Request received:
+# lang = JSON
+# file = Step12
+# File saved
+### Request finished
+2016-08-05 10:17:57: ### Request received:
+# lang = JSON
+# file = Step13
+# File saved
+### Request finished
+Log Server listening on: http://localhost:9501
+Killer Server listening on: http://localhost:10500
+Formatter Server listening on: http://localhost:9500
+Killer Server listening on: http://localhost:10500
+Formatter Server listening on: http://localhost:9500
+Log Server listening on: http://localhost:9501
+Formatter Server listening on: http://localhost:9500
+Log Server listening on: http://localhost:9501
+Killer Server listening on: http://localhost:10500
+Formatter Server listening on: http://localhost:9500
+Killer Server listening on: http://localhost:10500
+Log Server listening on: http://localhost:9501
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log display received
+Log display received
+Log display received
+Log display received
+Log display received
+Log display received
+Kill Server received
+Log display received
+Log display received
+Log display received
+Log display received
+Kill Server received
+Kill Server received
+Log display received
+Log display received
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log display received
+Log display received
+Log display received
+Log display received
+2016-09-26 12:53:55: ### Request received:
+# lang = JSON
+# file = top_budget
+# File saved
+### Request finished
+2016-09-26 12:54:14: ### Request received:
+# lang = JSON
+# file = emp_plans
+# File saved
+### Request finished
+2016-09-26 12:55:05: ### Request received:
+# lang = JSON
+# file = get_budget
+# File saved
+### Request finished
+2016-09-26 12:57:44: ### Request received:
+# lang = JSON
+# file = labels
+# File saved
+### Request finished
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+2016-11-09 09:42:39: ### Request received:
+# lang = JSON
+# file = undefined
+# File saved
+### Request finished
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+# lang = JSON
+# file = ASMLP2
+2016-11-14 12:58:37: ### Request received:
+# File saved
+### Request finished
+2016-11-14 12:59:35: ### Request received:
+# lang = JSON
+# file = ASMLP2
+# File saved
+### Request finished
+2016-11-14 12:59:51: ### Request received:
+# lang = JSON
+# file = ASMLP22v
+# File saved
+### Request finished
+2016-11-14 14:55:10: ### Request received:
+# lang = JSON
+# file = GrantLTI
+# File saved
+### Request finished
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+2016-11-15 13:47:14: ### Request received:
+# lang = JSON
+# file = ASMLapproval
+# File saved
+### Request finished
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+2016-11-21 10:51:40: ### Request received:
+# lang = JSON
+# file = usettings
+# File saved
+### Request finished
+2016-11-21 14:23:22: ### Request received:
+# lang = JSON
+# file = mysel_mon
+# File saved
+### Request finished
+2016-11-21 14:25:15: ### Request received:
+# lang = JSON
+# file = mysel_stat
+# File saved
+### Request finished
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log display received
+Log display received
+Log display received
+Log display received
+Log display received
+Log display received
+Kill Server received
+Log display received
+Log display received
+Kill Server received
+Kill Server received
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+2017-01-26 19:01:48: ### Request received:
+# lang = JSON
+# file = save_request
+# File saved
+2017-01-26 19:04:47: ### Request received:
+# lang = JSON
+# file = com_save
+# File saved
+### Request finished
+2017-01-26 19:05:59: ### Request received:
+# lang = JSON
+# file = com_top_budget
+# File saved
+### Request finished
+2017-01-26 19:06:47: ### Request received:
+# lang = JSON
+# file = com_emp_plans
+# File saved
+### Request finished
+2017-01-26 19:09:14: ### Request received:
+# lang = JSON
+# file = com_get_budget
+# File saved
+### Request finished
+2017-01-26 19:32:25: ### Request received:
+# lang = JSON
+# file = com_emp_plans_correct
+# File saved
+### Request finished
+2017-01-26 21:39:52: ### Request received:
+# lang = JSON
+# file = ET5_test_to_compare
+# File saved
+### Request finished
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Killer Server listening on: http://localhost:10000
+Log Server listening on: http://localhost:9001
+Formatter Server listening on: http://localhost:9000
+Log Server listening on: http://localhost:9001
+Killer Server listening on: http://localhost:10000

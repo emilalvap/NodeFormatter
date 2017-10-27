@@ -1,0 +1,79 @@
+{
+  "EWS": {
+    "@xmlns:asx": "http://www.sap.com/abapxml",
+    "o_budgets": {
+      "yglui_str_com_budget": [
+        {
+          "@appid": "COM_SALR",
+          "@bstat": null,
+          "@bud_remain": "24396.39",
+          "@bud_spent": "198482.69",
+          "@bud_total": "222879.08",
+          "@butyp": "ZZM1",
+          "@ccatg": "1",
+          "@currency": "EUR",
+          "@dec_places": "2",
+          "@objid": "90004985",
+          "@show_0_budget": null,
+          "@stext": "Merit 1-11",
+          "@view_detail": null,
+          "#text": null
+        },
+        {
+          "@appid": "COM_SALR",
+          "@bstat": null,
+          "@bud_remain": "0.0",
+          "@bud_spent": "0.0",
+          "@bud_total": "0.0",
+          "@butyp": "ZZP1",
+          "@ccatg": "1",
+          "@currency": "EUR",
+          "@dec_places": "2",
+          "@objid": "90004709",
+          "@show_0_budget": null,
+          "@stext": "Promo 1-11",
+          "@view_detail": null,
+          "#text": null
+        },
+        {
+          "@appid": "COM_SALR",
+          "@bstat": null,
+          "@bud_remain": "0.0",
+          "@bud_spent": "0.0",
+          "@bud_total": "0.0",
+          "@butyp": "ZZQ1",
+          "@ccatg": "1",
+          "@currency": "EUR",
+          "@dec_places": "2",
+          "@objid": "90005261",
+          "@show_0_budget": null,
+          "@stext": "Adjust 1-11",
+          "@view_detail": null,
+          "#text": null
+        }
+      ]
+    },
+    "labels": {
+      "item": [
+        {
+          "@id": "noBudgets",
+          "@value": "There are no budgets available",
+          "#text": null
+        },
+        {
+          "@id": "originalBudget",
+          "@value": "Original Budget",
+          "#text": null
+        },
+        {
+          "@id": "spentBudget",
+          "@value": "Spent Budget",
+          "#text": null
+        }
+      ]
+    },
+    "messages": null,
+    "webmessage_type": null,
+    "webmessage_text": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "EWS": {
+    "@xmlns:asx": "http://www.sap.com/abapxml",
+    "o_affected_views": null,
+    "o_del_pernr": "00000000",
+    "o_req_head": {
+      "@actio": "APP_PCR_NEW",
+      "@appid": "PCR_PRMJ",
+      "@approver": null,
+      "@busid": "PCR_REQ_PRMJ",
+      "@datum": "2017-01-26",
+      "@gcc": "ASM",
+      "@high_req_part": "01",
+      "@infty": "PRMJ",
+      "@is_main": "X",
+      "@lcc": "ANL",
+      "@mandt": "947",
+      "@objid": "00612530",
+      "@okcode": "INS",
+      "@otype": "P",
+      "@req_id": "000000036285",
+      "@req_step": "001",
+      "@screen": "1",
+      "@status": "10",
+      "@status_seqnr": "05",
+      "@subty": null,
+      "@sy_uname": "ASM_GAMEZPW",
+      "@time": "18:56:52",
+      "@transferred": null,
+      "@uname": "ASM_GAMEZPW",
+      "@web_key": null,
+      "#text": null
+    },
+    "labels": {
+      "item": [
+        {
+          "@id": "pcrError",
+          "@value": "error",
+          "#text": null
+        },
+        {
+          "@id": "pcrErrorAction",
+          "@value": "Please take action on this.",
+          "#text": null
+        },
+        {
+          "@id": "pcrErrorDraft",
+          "@value": "This PCR is still available in your drafts list.",
+          "#text": null
+        },
+        {
+          "@id": "pcrErrorInfoOne",
+          "@value": "Your PCR request &amp;1 submitted on &amp;2 has been ended in error.",
+          "#text": null
+        },
+        {
+          "@id": "pcrErrorRegards",
+          "@value": "Kind Regards.",
+          "#text": null
+        },
+        {
+          "@id": "pcrHi",
+          "@value": "Hi,",
+          "#text": null
+        }
+      ]
+    },
+    "messages": null,
+    "webmessage_type": null,
+    "webmessage_text": null
+  }
+}
